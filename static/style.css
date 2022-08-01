@@ -1,0 +1,19 @@
+ul{
+    display: flex;
+    /* text-decoration: none; */
+    /* background-color: grey; */
+    /* border: 2px solid black; */
+    flex-direction: row;
+}
+li{
+    /* display: flex; */
+    /* padding: 2px 4px; */
+    /* text-decoration: none; */
+    list-style: none;
+}
+
+h2
+{
+    background-color: yellowgreen;
+    color: black;
+}

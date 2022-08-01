@@ -1,0 +1,37 @@
+ul {
+    display: flex;
+    list-style: none;
+    background-color: cadetblue;
+    border: 2px solid grey;
+    text-align: center;
+    border-radius: 20px;
+    justify-content:center;
+}
+
+li {
+    padding: 9px;
+    margin: 9px;
+    text-align: center;
+    height: 20px;
+}
+
+.mayur
+{
+    background: url("abimage.jpg") no-repeat center center/cover; 
+    height: 100%;
+}
+
+
+.container {
+    /* border: 2px solid red; */
+    border-radius: 20px;
+}
+
+p {
+    padding: 20px;
+    margin: 24px;
+    /* border: 2px solid yellow; */
+    display: inline-block;
+    border-radius: 20px;
+    width: 25%;
+}
